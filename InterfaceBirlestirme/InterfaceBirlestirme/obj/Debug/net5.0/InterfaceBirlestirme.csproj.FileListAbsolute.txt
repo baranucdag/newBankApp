@@ -1,0 +1,16 @@
+C:\Users\90544\source\repos\InterfaceBirlestirme\InterfaceBirlestirme\bin\Debug\net5.0\InterfaceBirlestirme.exe
+C:\Users\90544\source\repos\InterfaceBirlestirme\InterfaceBirlestirme\bin\Debug\net5.0\InterfaceBirlestirme.deps.json
+C:\Users\90544\source\repos\InterfaceBirlestirme\InterfaceBirlestirme\bin\Debug\net5.0\InterfaceBirlestirme.runtimeconfig.json
+C:\Users\90544\source\repos\InterfaceBirlestirme\InterfaceBirlestirme\bin\Debug\net5.0\InterfaceBirlestirme.runtimeconfig.dev.json
+C:\Users\90544\source\repos\InterfaceBirlestirme\InterfaceBirlestirme\bin\Debug\net5.0\InterfaceBirlestirme.dll
+C:\Users\90544\source\repos\InterfaceBirlestirme\InterfaceBirlestirme\bin\Debug\net5.0\ref\InterfaceBirlestirme.dll
+C:\Users\90544\source\repos\InterfaceBirlestirme\InterfaceBirlestirme\bin\Debug\net5.0\InterfaceBirlestirme.pdb
+C:\Users\90544\source\repos\InterfaceBirlestirme\InterfaceBirlestirme\obj\Debug\net5.0\InterfaceBirlestirme.csprojAssemblyReference.cache
+C:\Users\90544\source\repos\InterfaceBirlestirme\InterfaceBirlestirme\obj\Debug\net5.0\InterfaceBirlestirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90544\source\repos\InterfaceBirlestirme\InterfaceBirlestirme\obj\Debug\net5.0\InterfaceBirlestirme.AssemblyInfoInputs.cache
+C:\Users\90544\source\repos\InterfaceBirlestirme\InterfaceBirlestirme\obj\Debug\net5.0\InterfaceBirlestirme.AssemblyInfo.cs
+C:\Users\90544\source\repos\InterfaceBirlestirme\InterfaceBirlestirme\obj\Debug\net5.0\InterfaceBirlestirme.csproj.CoreCompileInputs.cache
+C:\Users\90544\source\repos\InterfaceBirlestirme\InterfaceBirlestirme\obj\Debug\net5.0\InterfaceBirlestirme.dll
+C:\Users\90544\source\repos\InterfaceBirlestirme\InterfaceBirlestirme\obj\Debug\net5.0\ref\InterfaceBirlestirme.dll
+C:\Users\90544\source\repos\InterfaceBirlestirme\InterfaceBirlestirme\obj\Debug\net5.0\InterfaceBirlestirme.pdb
+C:\Users\90544\source\repos\InterfaceBirlestirme\InterfaceBirlestirme\obj\Debug\net5.0\InterfaceBirlestirme.genruntimeconfig.cache
